@@ -88,7 +88,7 @@ File Description: Mobile Page of the Personal Portfolio Website
                                 <img src="images/website3ScreenshotMobile.png" />
                             </li>
                             <li>
-                                <img src="images/websiteScreenshotMobile.png" />
+                                <img src="images/ArmaScreenshot.png" />
                             </li>
                             <li>
                                 <img src="images/languageFormScreenshotMobile.png" />
@@ -291,11 +291,11 @@ File Description: Mobile Page of the Personal Portfolio Website
                     style="position: relative; width: 100%; ">
                 </div>
                 <div id="website3" style="width: 100%; position: relative; background-color: #fbfbfb; border: 1px solid #b8b8b8;">
-                    <img id="website3" src="images/website3ScreenshotMobile.png" alt="image" "http://
+                    <img id="website3" src="images/website3ScreenshotMobile.png" alt="image" href=http://webdesign4.georgianc.on.ca/~200231116/Project1/Home.php"
                     style="position: relative; width: 100%; ">
                 </div>
                 <div id="website" style="width: 100%; position: relative; background-color: #fbfbfb; border: 1px solid #b8b8b8;">
-                    <img id="website" src="images/websiteScreenshotMobile.png" alt="image" href = "http://webdesign4.georgianc.on.ca/~200231116/FinalProject/forumIndex.php"
+                    <img id="website" src="images/ArmaScreenshot.png" alt="image" href = "http://webdesign4.georgianc.on.ca/~200231116/FinalProject/forumIndex.php"
                     style="position: relative; width: 100%;  ">
                 </div>
             </div>
