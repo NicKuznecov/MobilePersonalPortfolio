@@ -16,6 +16,7 @@ include('header.php');
             <a href="https://twitter.com/NicKuznecov"><img src="images/twitterLogo.jpg" width="75" height="75" alt="twitter logo" /></a>
             <a href="https://facebook.com"><img src="images/facebookLogo.jpg" width="75" height="75" alt="facebook logo" /></a>
             <a href="https://github.com/NicKuznecov"><img src="images/githubLogo.png" width="75" height="75" alt="github logo" /></a>
+            <a href="http://www.linkedin.com/pub/nick-kuznecov/84/716/196"> <img src="images/linkedinLogo.jpg" width ="75" height="75" alt="linkedin logo" /></a>
 <?php
 include('sideContent.php');
 ?>
