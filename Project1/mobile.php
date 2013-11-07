@@ -13,28 +13,28 @@ File Description: Mobile Page of the Personal Portfolio Website
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <title>Personal Portfolio</title>
   
-    <!-- PT Serif Google Webfonts -->
-  <link href='http://fonts.googleapis.com/css?family=PT+Serif+Caption&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+  <!-- CSS -->
   
-  <!-- Javascript Slider -->        
-  <script src="javascript/jquery.flexslider-min.js"></script>
-  <script src="javascript/jquery.flexslider.js"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>      
-  
+  <!-- PT Serif Google Webfonts -->
+  <link href='http://fonts.googleapis.com/css?family=PT+Serif+Caption&subset=latin,cyrillic' rel='stylesheet' type='text/css'>  
   <!-- Jquery Mobile CSS -->
   <link rel="stylesheet" href="https://d10ajoocuyu32n.cloudfront.net/mobile/1.3.1/jquery.mobile-1.3.1.min.css"> 
   <!-- Mobile CSS -->
   <link rel="stylesheet" href="styles/mobilestyles.css" type="text/css">
   <!-- JS Slider CSS -->
   <link rel="stylesheet" href="styles/flexslider.css" />
-  
   <!-- Extra Codiqa features -->
   <link rel="stylesheet" href="codiqa.ext.css"/> 
   
+  <!-- JAVASCRIPT -->
+  
+  <!-- Javascript Slider -->        
+  <script src="javascript/jquery.flexslider-min.js"></script>
+  <script src="javascript/jquery.flexslider.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>   
   <!-- jQuery and jQuery Mobile -->
   <script src="https://d10ajoocuyu32n.cloudfront.net/jquery-1.9.1.min.js"></script>
   <script src="https://d10ajoocuyu32n.cloudfront.net/mobile/1.3.1/jquery.mobile-1.3.1.min.js"></script> 
-
   <!-- Extra Codiqa features -->
   <script src="https://d10ajoocuyu32n.cloudfront.net/codiqa.ext.js"></script> 
     
@@ -291,7 +291,7 @@ File Description: Mobile Page of the Personal Portfolio Website
                     style="position: relative; width: 100%; ">
                 </div>
                 <div id="website3" style="width: 100%; position: relative; background-color: #fbfbfb; border: 1px solid #b8b8b8;">
-                    <img id="website3" src="images/website3ScreenshotMobile.png" alt="image" href=http://webdesign4.georgianc.on.ca/~200231116/Project1/Home.php"
+                    <img id="website3" src="images/website3ScreenshotMobile.png" alt="image" href= "http://webdesign4.georgianc.on.ca/~200231116/Project1/Home.php"
                     style="position: relative; width: 100%; ">
                 </div>
                 <div id="website" style="width: 100%; position: relative; background-color: #fbfbfb; border: 1px solid #b8b8b8;">
