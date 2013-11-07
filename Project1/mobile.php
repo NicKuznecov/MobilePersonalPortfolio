@@ -19,13 +19,17 @@ File Description: Mobile Page of the Personal Portfolio Website
   <link href='http://fonts.googleapis.com/css?family=PT+Serif+Caption&subset=latin,cyrillic' rel='stylesheet' type='text/css'>  
   <!-- Jquery Mobile CSS -->
   <link rel="stylesheet" href="https://d10ajoocuyu32n.cloudfront.net/mobile/1.3.1/jquery.mobile-1.3.1.min.css"> 
+  
   <!-- Mobile CSS -->
   <link rel="stylesheet" href="styles/mobilestyles.css" type="text/css">
   <!-- JS Slider CSS -->
   <link rel="stylesheet" href="styles/flexslider.css" />
   <!-- Extra Codiqa features -->
   <link rel="stylesheet" href="codiqa.ext.css"/> 
-  
+  <!-- Theme Roller -->
+  <link rel="stylesheet" href="styles/themes/mobileTheme.css" />
+  <link rel="stylesheet" href="styles/themes/mobileTheme.min.css" />
+ 
   <!-- JAVASCRIPT -->
   
   <!-- Javascript Slider -->        
@@ -41,8 +45,8 @@ File Description: Mobile Page of the Personal Portfolio Website
 </head>
     <body>
         <!-- Home -->
-        <div data-role="page" id="Home">
-            <div data-theme="a" data-role="header" >
+        <div data-role="page" id="Home" >
+            <div data-role="header" >
                 <img id="logo" src="images/logo.png" alt="Logo" /> 
                 <div id="header">
                 <h3>Personal Portfolio</h3>
